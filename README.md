@@ -1,5 +1,5 @@
 # node-docker
-Contains a docker file for an image based on `node-12` with docker installed, and script to build, tag and push
+Contains a docker file for an image based on `node-14` with docker installed, and script to build, tag and push
 the image to the vimc docker hub.
 
 ## building
