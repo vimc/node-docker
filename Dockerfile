@@ -4,6 +4,7 @@ FROM node:14-slim
 RUN apt-get update
 RUN apt-get install -y \
         apt-transport-https \
+        gnupg2 \
         ca-certificates \
         curl \
         software-properties-common
