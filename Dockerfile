@@ -1,4 +1,4 @@
-FROM node:14-slim
+FROM node:14-bullseye
 
 # Install docker
 RUN apt-get update
